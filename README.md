@@ -18,14 +18,15 @@
 - [ ] Service account support.
 - [ ] Update command.
 
+### How To Deploy Video Tutorial:
+
+[![](https://telegra.ph/file/291e37efec46c3a408319.png)](https://youtu.be/sTQkY0UE20c)
+
+
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kjeymax/GDUPLOAD_BOT2)
-
-### How To Deploy Video Tutorial:
-
-[![](img url)](vid url)
 
 
 ### Installation
