@@ -21,11 +21,11 @@
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viperadnan-git/google-drive-telegram-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kjeymax/GDUPLOAD_BOT2)
 
 ### How To Deploy Video Tutorial:
 
-[![](https://i.ytimg.com/vi/5Ke_q2_5mNU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAArIzsqRXHm_KX5WSxmyXRfrpt8A)](https://youtu.be/5Ke_q2_5mNU)
+[![](img url)](vid url)
 
 
 ### Installation
