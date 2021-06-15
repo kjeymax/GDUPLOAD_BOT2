@@ -1,0 +1,15 @@
+wget
+asyncio
+pyrogram==1.0.1
+tgcrypto
+oauth2client
+psycopg2-binary
+sqlalchemy==1.3.23
+httplib2
+pySmartDL
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+youtube_dl
+ffmpeg
+tenacity
