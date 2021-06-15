@@ -57,7 +57,6 @@ pip3 install -r requirements.txt
 - `APP_ID` - Get it by creating app on [my.telegram.org](https://my.telegram.org/apps)
 - `API_HASH` - Get it by creating app on [my.telegram.org](https://my.telegram.org/apps)
 - `SUDO_USERS` - List of Telegram User ID of sudo users, seperated by space.
-- `SUPPORT_CHAT_LINK` - Telegram invite link of support chat.
 - `DATABASE_URL` - Postgres database url.
 - `DOWNLOAD_DIRECTORY` - Custom path for downloads. Must end with a forward `/` slash. (Default to `./downloads/`)
 
@@ -82,5 +81,5 @@ python3 -m bot
 - [Shivam Jha](https://github.com/lzzy12) for [Clone Feature](./bot/helpers/gdrive_utils/gDrive.py) from [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
 ## Copyright & License
-- Copyright (©) 2020 by [Adnan Ahmad](https://github.com/viperadnan-git)
+- Copyright (©) 2021 by [Adnan Ahmad](https://github.com/viperadnan-git)
 - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)
