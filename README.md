@@ -40,7 +40,7 @@ git clone https://github.com/viperadnan-git/google-drive-telegram-bot
 ```
 - Change Directory
 ```sh 
-cd google-drive-telegram-bot
+cd GDUPLOAD_BOT2
 ```
 - Install requirements with pip3
 ```sh 
