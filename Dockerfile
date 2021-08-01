@@ -68,7 +68,7 @@ Run apt install -y git python3 ffmpeg
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/mrjoker
-RUN git clone -b main https://github.com/kaj117/GDUPLOAD_BOT2
+RUN git clone -b main https://github.com/kjeymax/GDUPLOAD_BOT2
 WORKDIR /root/GDUPLOAD_BOT2
 
 COPY . .
