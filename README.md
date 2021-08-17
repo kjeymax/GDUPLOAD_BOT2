@@ -72,7 +72,7 @@ python3 -m bot
 ```
 
 ### COMMANDS FOR THE BOT TO BE USED-
-
+```
 - start - useless command
 - help - How to use me
 - auth - Authorizing GDrive Account
@@ -80,7 +80,7 @@ python3 -m bot
 - copy - Copy GDrive Files
 - revoke - Revoke GDrive Account
 - del - Delete GDrive Files
-
+```
 ## Credits
 - [Dan](https://github.com/delivrance) for creating [PyroGram](https://pyrogram.org)
 - [Spechide](https://github.com/Spechide) for [gDriveDB.py](./bot/helpers/sql_helper/gDriveDB.py)
