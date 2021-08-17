@@ -11,12 +11,8 @@
 - [X] Delete Google Drive Files.
 - [X] Empty Google Drive trash.
 - [X] youtube-dl support.
+- [X] Docker Supported
 
-## ToDo 
-- [ ] Handle more exceptions.
-- [ ] LOGGER support.
-- [ ] Service account support.
-- [ ] Update command.
 
 ### How To Deploy Video Tutorial:
 
