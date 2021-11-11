@@ -10,8 +10,14 @@
 - [X] Clone/Copy Google Drive Files.
 - [X] Delete Google Drive Files.
 - [X] Empty Google Drive trash.
-- [X] youtube-dl support.
+- [X] YouTube-DL Support.
 - [X] Docker Supported
+- [X] FB-dl Supported
+- [X] Anonfiles Supported
+- [X] LK21 Supported
+- [X] Solidfiles Supported
+- [X] Mediafire Supported
+- [X] Zippy Supported...
 
 
 ### How To Deploy Video Tutorial:
