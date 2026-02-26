@@ -10,8 +10,14 @@
 - [X] Clone/Copy Google Drive Files.
 - [X] Delete Google Drive Files.
 - [X] Empty Google Drive trash.
-- [X] youtube-dl support.
+- [X] YouTube-DL Support.
 - [X] Docker Supported
+- [X] FB-dl Supported
+- [X] Anonfiles Supported
+- [X] LK21 Supported
+- [X] Solidfiles Supported
+- [X] Mediafire Supported
+- [X] Zippy Supported...
 
 
 ### How To Deploy Video Tutorial:
@@ -86,6 +92,3 @@ python3 -m bot
 - [Spechide](https://github.com/Spechide) for [gDriveDB.py](./bot/helpers/sql_helper/gDriveDB.py)
 - [Shivam Jha](https://github.com/lzzy12) for [Clone Feature](./bot/helpers/gdrive_utils/gDrive.py) from [python-aria-mirror-bot](https://github.com/lzzy12/python-aria-mirror-bot)
 
-## Copyright & License
-- Copyright (©) 2021 by [Adnan Ahmad](https://github.com/viperadnan-git)
-- Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](./LICENSE)

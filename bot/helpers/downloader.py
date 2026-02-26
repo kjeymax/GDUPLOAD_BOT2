@@ -23,6 +23,13 @@ def download_file(url, dl_path):
     except HTTPError:
       return False, error
 
+def download_fb(url, dl_path):
+  try:
+    filename = wget.download(url, dl_path)
+    return True, os.path.join(f"{DOWNLOAD_DIRECTORY}/{filename}")
+  except HTTPError as error:
+    return False, error
+
 
 def utube_dl(link):
   ytdl_opts = {
